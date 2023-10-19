@@ -1,5 +1,6 @@
 # SPD-Multiplexacion-1Parcial
-image.
+![Arduino](https://github.com/JoaquinMino/SPD-Multiplexacion-1Parcial/assets/138269439/c817ce32-9fd4-4aa5-a863-737e0d1c10a8)
+
 
 Integrantes
 Lucas Matías Rodas Arce
