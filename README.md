@@ -16,6 +16,7 @@ Función Principal
 La funcion acerca de este arduino es la de mostrar numeros del 0 al 99 mediante 2 display de manera que se use la multiplexacion, con 3 botones que permiten controlar los display sumando, restando y resenteando a 0 el contador.
 Link del proyecto
 https://www.tinkercad.com/things/5bUPYDLrb22
+
 Proyecto: Switch Numeros Primos
 ![Numeros Primos](https://github.com/JoaquinMino/SPD-Multiplexacion-1Parcial/assets/138269439/cab7c0bf-3011-4b5e-95fa-fa911bee1e5c)
 
